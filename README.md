@@ -1,6 +1,3 @@
-# OOP in Python
-
-A collection of Python programs built around real-world scenarios to practice Object-Oriented Programming. Covers classes, inheritance, encapsulation, abstraction, and polymorphism.
 
 ## Programs
 
@@ -15,13 +12,3 @@ A collection of Python programs built around real-world scenarios to practice Ob
 | parking_lot.py | Parking lot with slot tracking and fee calculation |
 | school_management.py | School system with student enrollment and teacher management |
 
-## Concepts Covered
-
-- Classes and Objects
-- Inheritance
-- Encapsulation
-- Abstraction
-- Polymorphism
-- Properties and Setters
-- Static Methods and Class Methods
-- Dunder Methods (`__str__`, `__len__`)
